@@ -1,6 +1,6 @@
 {
   "name": "ggwpbruh",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "./build/index.js",
   "scripts": {
@@ -18,8 +18,7 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
   },
-  "dependencies": {
-    "@material/react-button": "^0.15.0",
-    "prop-types": "^15.7.2"
+  "peerDependencies": {
+    "react": ">=16.0.0"
   }
 }
