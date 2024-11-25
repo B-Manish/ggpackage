@@ -1,13 +1,14 @@
-# Markdown syntax guide
-
 # Getting started
 
 Install `ggwpbbruh` using npm.
 
 ```
 npm install ggwpbruh
-
 ```
+
+## Description
+
+A react package which lets you implement react virtualisation
 
 ## Pre-requisite:
 
