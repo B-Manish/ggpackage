@@ -41,7 +41,6 @@ function Package({
       style={{
         height: `${window.innerHeight - occupied}px`,
         overflowY: "scroll",
-        border: "1px solid red",
       }}
       onScroll={handleScroll}
       ref={containerRef}
